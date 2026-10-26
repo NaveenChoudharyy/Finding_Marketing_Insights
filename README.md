@@ -6,7 +6,7 @@ This project analyzes e-commerce transaction and marketing data to understand sa
 
 The project was completed in Python using Jupyter Notebook, with exploratory analysis, customer segmentation, predictive modeling, product-pair analysis, and cohort analysis.
 
-## Business Objectives 
+## Business Objectives
 
 - Calculate transaction-level invoice value using quantity, unit price, discount, GST, and delivery charges.
 - Analyze customer acquisition, repeat purchases, retention, and revenue from new versus existing customers.
